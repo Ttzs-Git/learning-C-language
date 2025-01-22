@@ -20,4 +20,4 @@ Major updates in the freshman year, i.e., between September 2024 and January 202
 Bigger, updated from time to time
 
 #### Open Source License
-This project is licensed under the AGPL-3.0 open source license.
+This project is licensed under the Apache-2.0 license open source license.
